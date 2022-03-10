@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_coinpage_clone/static/css/main.5e6f9c26.css",
+    "main.js": "/react_coinpage_clone/static/js/main.66714121.js",
+    "static/js/787.dade8418.chunk.js": "/react_coinpage_clone/static/js/787.dade8418.chunk.js",
+    "index.html": "/react_coinpage_clone/index.html",
+    "main.5e6f9c26.css.map": "/react_coinpage_clone/static/css/main.5e6f9c26.css.map",
+    "main.66714121.js.map": "/react_coinpage_clone/static/js/main.66714121.js.map",
+    "787.dade8418.chunk.js.map": "/react_coinpage_clone/static/js/787.dade8418.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e6f9c26.css",
+    "static/js/main.66714121.js"
+  ]
+}
